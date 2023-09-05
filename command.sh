@@ -21,8 +21,8 @@ git push origin update_logo
 gh pr create --base master --head update_logo --title "Update Logo and Link"
 
 
-# Step 8: Merge PR
-# ... (add any relevant commands)
+gh pr merge 1
+
 
 # Repository URL
-REPO_URL https://github.com/yourusername/my-app
+REPO_URL https://github.com/arxel2468/react-app-forage
